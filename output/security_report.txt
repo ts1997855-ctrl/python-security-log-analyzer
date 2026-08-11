@@ -1,0 +1,16 @@
+SECURITY LOG ANALYSIS REPORT
+=======================================================
+Successful logins: 3
+Failed logins: 10
+File access events: 2
+
+FAILED LOGIN ATTEMPTS BY IP
+-------------------------------------------------------
+192.168.1.25: 4 failed attempt(s)
+10.0.0.8: 4 failed attempt(s)
+172.16.0.50: 2 failed attempt(s)
+
+SECURITY ALERTS
+-------------------------------------------------------
+[MEDIUM ALERT] 192.168.1.25 generated 4 failed login attempts.
+[MEDIUM ALERT] 10.0.0.8 generated 4 failed login attempts.
